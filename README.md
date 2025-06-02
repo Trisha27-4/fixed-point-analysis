@@ -17,10 +17,6 @@ This project explores a two-variable nonlinear system using numerical simulation
 ## 🛠 Tools & Technologies
 Python · NumPy · SymPy · Matplotlib
 
-## 📁 Structure
-- `simulation.ipynb`: Main notebook with simulations and figures
-- `vector_fields.py`: Utility functions for plotting
-- `docs/`: Supporting images and notes
 
 ## 🔬 Sample Output
 Vector field visualization showing convergence toward or divergence from fixed points depending on initial conditions and system dynamics.
